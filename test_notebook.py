@@ -10,4 +10,4 @@ def _exec_notebook(path):
 
 def test():
     _exec_notebook('Python_Object_and_Data_Structure_Basics/numbers.ipynb',
-                   'Python_Object_and_Data_Structure_Basics/variable assignments.ipynb')
+                   'Python_Object_and_Data_Structure_Basics/variable_assignments.ipynb')

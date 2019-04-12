@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ac524e3-e296-444f-9660-a30ac74be867" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_notebook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/numbers-checkpoint.ipynb" />
@@ -27,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_notebook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="299">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -122,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555040968507</updated>
       <workItem from="1555040971707" duration="2939000" />
-      <workItem from="1555044928892" duration="465000" />
+      <workItem from="1555044928892" duration="1743000" />
     </task>
     <task id="LOCAL-00001" summary="Add requirements">
       <created>1555041222684</created>
@@ -159,11 +158,32 @@
       <option name="project" value="LOCAL" />
       <updated>1555043300850</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add config test">
+      <created>1555045519195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555045519195</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add variable assignments to config test">
+      <created>1555046456595</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1555046456595</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add numbers to config test">
+      <created>1555046497327</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555046497327</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3491000" />
+    <option name="totallyTimeSpent" value="4682000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +270,10 @@
     <MESSAGE value="Add Python Object and Data Structure Basics folder and a numbers script" />
     <MESSAGE value="Update of Markdown" />
     <MESSAGE value="Upload variable assignments script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload variable assignments script" />
+    <MESSAGE value="Add config test" />
+    <MESSAGE value="Add variable assignments to config test" />
+    <MESSAGE value="Add numbers to config test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add numbers to config test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/requirements.txt">
@@ -267,6 +290,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -277,17 +307,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_notebook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
