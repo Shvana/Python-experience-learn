@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ac524e3-e296-444f-9660-a30ac74be867" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ac524e3-e296-444f-9660-a30ac74be867" name="Default Changelist" comment="" />
     <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/numbers-checkpoint.ipynb" />
     <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/variable assignments-checkpoint.ipynb" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555040968507</updated>
       <workItem from="1555040971707" duration="2939000" />
-      <workItem from="1555044928892" duration="1743000" />
+      <workItem from="1555044928892" duration="2002000" />
     </task>
     <task id="LOCAL-00001" summary="Add requirements">
       <created>1555041222684</created>
@@ -179,11 +177,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555046497327</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix number 1 variable_assignments in conf script">
+      <created>1555046829571</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555046829571</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4682000" />
+    <option name="totallyTimeSpent" value="4941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,7 +201,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -273,7 +277,8 @@
     <MESSAGE value="Add config test" />
     <MESSAGE value="Add variable assignments to config test" />
     <MESSAGE value="Add numbers to config test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add numbers to config test" />
+    <MESSAGE value="fix number 1 variable_assignments in conf script" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix number 1 variable_assignments in conf script" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/requirements.txt">
