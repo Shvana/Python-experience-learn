@@ -9,4 +9,5 @@ def _exec_notebook(path):
         subprocess.check_call(args)
 
 def test():
-    _exec_notebook('Python_Object_and_Data_Structure_Basics/numbers.ipynb')
+    _exec_notebook('Python_Object_and_Data_Structure_Basics/variable assignments.ipynb',
+                   'Python_Object_and_Data_Structure_Basics/variable assignments.ipynb')
