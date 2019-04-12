@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ac524e3-e296-444f-9660-a30ac74be867" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/numbers-checkpoint.ipynb" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jonatan Huergo &lt;htsunemikuv9@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -30,6 +35,7 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/test_notebook.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -52,6 +58,11 @@
             <path>
               <item name="Python-experience-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-experience-learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-experience-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-experience-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Object_and_Data_Structure_Basics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -86,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555040968507</updated>
-      <workItem from="1555040971707" duration="1132000" />
+      <workItem from="1555040971707" duration="2211000" />
     </task>
     <task id="LOCAL-00001" summary="Add requirements">
       <created>1555041222684</created>
@@ -102,11 +113,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555041509806</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Python Object and Data Structure Basics folder and a numbers script">
+      <created>1555042280374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555042280374</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update of Markdown">
+      <created>1555042580502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555042580502</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1132000" />
+    <option name="totallyTimeSpent" value="2211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -140,7 +165,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add requirements" />
     <MESSAGE value="Add a Small config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a Small config" />
+    <MESSAGE value="Add Python Object and Data Structure Basics folder and a numbers script" />
+    <MESSAGE value="Update of Markdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update of Markdown" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/requirements.txt">
@@ -171,6 +198,16 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="161">
+            <caret line="7" column="143" selection-start-line="7" selection-start-column="143" selection-end-line="7" selection-end-column="143" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
