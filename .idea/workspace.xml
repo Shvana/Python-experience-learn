@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ac524e3-e296-444f-9660-a30ac74be867" name="Default Changelist" comment="" />
+    <list default="true" id="7ac524e3-e296-444f-9660-a30ac74be867" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_notebook.py" afterDir="false" />
+    </list>
     <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/numbers-checkpoint.ipynb" />
     <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/variable assignments-checkpoint.ipynb" />
+    <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/variable_assignments-checkpoint.ipynb" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/test_notebook.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -72,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,6 +92,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,7 +123,9 @@
       <option name="presentableId" value="Default" />
       <updated>1555040968507</updated>
       <workItem from="1555040971707" duration="2939000" />
-      <workItem from="1555044928892" duration="2002000" />
+      <workItem from="1555044928892" duration="3400000" />
+      <workItem from="1555110773775" duration="1257000" />
+      <workItem from="1555187312332" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="Add requirements">
       <created>1555041222684</created>
@@ -184,11 +190,32 @@
       <option name="project" value="LOCAL" />
       <updated>1555046829571</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix number 1 variable_assignments in conf script">
+      <created>1555047123924</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555047123924</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix number 1 variable_assignments in conf script">
+      <created>1555047136859</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555047136859</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix number 2 variable_assignments in conf script">
+      <created>1555047495210</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555047495210</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4941000" />
+    <option name="totallyTimeSpent" value="8220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,8 +228,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -278,7 +306,8 @@
     <MESSAGE value="Add variable assignments to config test" />
     <MESSAGE value="Add numbers to config test" />
     <MESSAGE value="fix number 1 variable_assignments in conf script" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix number 1 variable_assignments in conf script" />
+    <MESSAGE value="fix number 2 variable_assignments in conf script" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix number 2 variable_assignments in conf script" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/requirements.txt">
@@ -295,13 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -312,10 +334,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_notebook.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>

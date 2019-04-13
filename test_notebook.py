@@ -11,3 +11,4 @@ def _exec_notebook(path):
 def test():
     _exec_notebook('Python_Object_and_Data_Structure_Basics/numbers.ipynb',)
     _exec_notebook('Python_Object_and_Data_Structure_Basics/variable_assignments.ipynb', )
+    _exec_notebook('Python_Object_and_Data_Structure_Basics/strings.ipynb', )
