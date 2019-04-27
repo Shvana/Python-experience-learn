@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ac524e3-e296-444f-9660-a30ac74be867" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Object_and_Data_Structure_Basics/strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Object_and_Data_Structure_Basics/strings.ipynb" afterDir="false" />
     </list>
     <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/numbers-checkpoint.ipynb" />
     <ignored path="Python_Object_and_Data_Structure_Basics/.ipynb_checkpoints/variable assignments-checkpoint.ipynb" />
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_notebook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="240">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -77,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,6 +92,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,7 +131,9 @@
       <workItem from="1555110773775" duration="1257000" />
       <workItem from="1555187312332" duration="1519000" />
       <workItem from="1555210792359" duration="715000" />
-      <workItem from="1555212362978" duration="1706000" />
+      <workItem from="1555212362978" duration="2393000" />
+      <workItem from="1556137797748" duration="620000" />
+      <workItem from="1556138467635" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Add requirements">
       <created>1555041222684</created>
@@ -225,11 +226,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555188604811</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update strings script">
+      <created>1555220156440</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555220156440</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11536000" />
+    <option name="totallyTimeSpent" value="13442000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -242,9 +250,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -257,7 +264,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3296" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.3296" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -322,7 +329,9 @@
     <MESSAGE value="fix number 1 variable_assignments in conf script" />
     <MESSAGE value="fix number 2 variable_assignments in conf script" />
     <MESSAGE value="Uploading the File &quot;string&quot; and modify the configuration." />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploading the File &quot;string&quot; and modify the configuration." />
+    <MESSAGE value="Update strings script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update strings script" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/requirements.txt">
@@ -343,6 +352,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Object_and_Data_Structure_Basics/strings.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -352,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_notebook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="240">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
